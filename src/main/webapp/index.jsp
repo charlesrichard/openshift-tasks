@@ -4,7 +4,7 @@
 <html lang="en-us">
 <!--<![endif]-->
   <head>
-    <title>1234 OpenShift Demo Tasks</title>
+    <title>12345 OpenShift Demo Tasks</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
