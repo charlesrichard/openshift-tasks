@@ -4,7 +4,7 @@
 <html lang="en-us">
 <!--<![endif]-->
   <head>
-    <title>Duncan's OpenShift Demo Tasks</title>
+    <title>Piston OpenShift Demo Tasks</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
